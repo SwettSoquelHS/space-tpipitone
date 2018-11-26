@@ -8,11 +8,11 @@ You may find the followin resources helpful:
  
 Program requirements:
 ---------------------
-Your program must use three classes to model the particles. A "Normal" particle class, an "Oddball" particle class and a "Jumbo" particle class. All the particles must be stored in a single array using an interface. The Jumbo particle class must use inheritance.
+Your program must use three classes to model the particles. A "Normal" particle class, an "Oddball" particle class and a "Jumbo" particle class. All the particles must be stored in a single array using an abstract "Particle" class. The Jumbo particle must extend the "Normal" or Oddball class through inheritance.
 
 Suggested steps to completing this assignment
 -----------------------------------
-1. Fork [this repository](https://github.com/APCSLowell/Starfield)  
+1. Clone this repository.
 2. First, finish the `NormalParticle` class. It will need the following members:
   * 5 member variables: X and Y positions, Color, Angle and Speed. (Hint: use doubles for X, Y, Speed and Angle)
   * `NormalParticle()`, the class constructor
