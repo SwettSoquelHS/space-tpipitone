@@ -4,7 +4,7 @@ For this assignment you will make a animation of fireworks. This common animatio
 
 You may find the followin resources helpful:
   * [Polymorphism](https://drive.google.com/open?id=17vmm80BUwHFesj3WLmd8hAwaaKt3N1vAZPrIx0T_RX8)
-  * [slides 1-131: OOP--Interfaces, Inheritance & Encapsulation]("https://docs.google.com/presentation/d/1mje9jlDq-T4k5peyTMEPvVfN1L6qRRV8t2EhstQtakE/edit#slide=id.p1") 
+  * [slides 1-131: OOP--Interfaces, Inheritance & Encapsulation](https://docs.google.com/presentation/d/1mje9jlDq-T4k5peyTMEPvVfN1L6qRRV8t2EhstQtakE/edit#slide=id.p1) 
  
 Program requirements:
 ---------------------
