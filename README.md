@@ -1,6 +1,6 @@
 Starfield (with an Oddball and Jumbo)
 =========================
-For this assignment you will make a animation of particle movement. This common animation is called a "starfield" since it can also be used to simulate movement through a field of stars. Ultimately it is up to you to determine what you want your scene to look like, the big bang? A firework festival upon mouse click?
+For this assignment you will make a animation of particle movement. This common animation is called a "starfield" since it can also be used to simulate movement through a field of stars. Ultimately it is up to you to determine what you want your scene to look like, the big bang? A firework festival (every click causes a new particle array to explode)?
 
 You may find the following resources helpful:
   * [slides 1-131: OOP--Interfaces, Inheritance & Encapsulation](https://docs.google.com/presentation/d/1mje9jlDq-T4k5peyTMEPvVfN1L6qRRV8t2EhstQtakE/edit#slide=id.p1) 
