@@ -5,6 +5,7 @@ For this assignment you will make a animation of particle movement. This common 
 You may find the following resources helpful:
   * [slides 1-131: OOP--Interfaces, Inheritance & Encapsulation](https://docs.google.com/presentation/d/1mje9jlDq-T4k5peyTMEPvVfN1L6qRRV8t2EhstQtakE/edit#slide=id.p1) 
     * Slides 19-25 help with the Math.cos, Math.sin work you will need to perform.
+    * Slides 26 - 34 should help you to get your normal and oddball particle to move.
   * [Polymorphism](https://drive.google.com/open?id=17vmm80BUwHFesj3WLmd8hAwaaKt3N1vAZPrIx0T_RX8)
  
 Program requirements:
