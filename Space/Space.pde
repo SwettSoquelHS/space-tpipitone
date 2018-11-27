@@ -1,26 +1,11 @@
-//your code here
-void setup()
-{
-	//your code here
-}
-void draw()
-{
-	//your code here
-}
-class NormalParticle
-{
-	//your code here
-}
-interface Particle
-{
-	//your code here
-}
-class OddballParticle //uses an interface
-{
-	//your code here
-}
-class JumboParticle //uses inheritance
-{
-	//your code here
-}
+//Declare your variables here
+// so try declaring one Particle first, then instantiate it in setup, and use move and show in draw()
 
+void setup() {
+	//your code here
+} //end of setup
+ 
+
+void draw() {
+	//your code here
+} //end of draw
