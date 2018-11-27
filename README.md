@@ -37,15 +37,19 @@ Extensions: Have a fun and be creative. If you have extra time you may want to m
 
 Samples of Student Work
 -----------------------
-[Windows pun](https://lawrencelowell.github.io/Starfield/)
+[Windows pun](https://lawrencelowell.github.io/Starfield/)  
+
 [Spiral Galaxy](https://btlsandwich.github.io/Starfield/)
 [Particle Collider](https://alngo1.github.io/Starfield/)
 [Fireworks](https://rowanmckereghan.github.io/Starfield/)
+[Fireworks and boats](https://jaydewong.github.io/Starfield/)
+
 [Big bang](https://callmecalvin808.github.io/Starfield/)
 [Warp Drive](https://chubbibunniomnomnom.github.io/Starfield/)
 [80's spiral](https://koooolk.github.io/Starfield/)
 [Heh so bad](https://emmab3.github.io/Starfield/)
 [Modulate speed](https://major-crimes.github.io/Starfield/)
+
 
 [Lawrence](https://lawrencelowell.github.io/Starfield/)   
 [Willis](https://willisli.github.io/Starfield/)   
